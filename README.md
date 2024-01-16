@@ -1,7 +1,7 @@
 # Taxi trip duration prediction
 
 ## Main goal
-Creating taxi trip duration predictor model. 
+Building a model predicting the total ride duration of taxi trips in New York City
 
 ## Data description
 
